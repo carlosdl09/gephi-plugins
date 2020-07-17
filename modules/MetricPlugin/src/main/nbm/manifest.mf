@@ -1,0 +1,5 @@
+Manifest-Version: 1.0
+OpenIDE-Module-Name: Metric Plugin
+OpenIDE-Module-Short-Description: Plugin Filter
+OpenIDE-Module-Long-Description: Metric graph are great
+OpenIDE-Module-Display-Category: Filter
